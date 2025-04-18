@@ -6,6 +6,8 @@
 
 *Click the image above to watch the demo video*
 
+![Metrics Image](model/metrics.png)
+
 ## Future Work
 
 - **Expanded Classification**: Expand the model to identify additional tumor subtypes and grades for more granular diagnostic support
