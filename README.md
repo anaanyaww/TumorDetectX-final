@@ -6,7 +6,7 @@
 
 *Click the image above to watch the demo video*
 
-![Metrics Image](model/metrics.png)
+
 
 ## Future Work
 
