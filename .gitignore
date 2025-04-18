@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv/
+
+# Ignore frontend dependencies
+frontend/node_modules/
+
+# macOS system files (optional)
+.DS_Store

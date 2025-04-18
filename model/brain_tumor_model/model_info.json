@@ -1,0 +1,1 @@
+{"img_size": [299, 299], "classes": ["glioma", "meningioma", "notumor", "pituitary"], "class_indices": {"glioma": 0, "meningioma": 1, "notumor": 2, "pituitary": 3}, "metrics": {"test_accuracy": 0.9862805008888245, "test_precision": 0.9862805008888245, "test_recall": 0.9862805008888245}}
